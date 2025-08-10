@@ -9,7 +9,7 @@ Building an Course Selling Applications.
     - Add route skeleton for user login, signup, purchase a course, sees all courses, sees the purchased courses course. 
     - Add routes for admin login, adming signup, create a source, delete a source, add course content. 
     - Add middlewares for user and admin auth. 
-    - Add a database (mongodb), use dotenv to store the database connection string. 
     - Define the schema for User, Admin, Course, Purchase. 
+    - Add a database (mongodb), use dotenv to store the database connection string. 
     - Complete the routes for user login, signup, purchase a course, see course (Extra points - Use express routing to better structure your routes).
     - Create the frontend. 
